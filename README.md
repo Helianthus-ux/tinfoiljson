@@ -15,8 +15,8 @@ Then adding this Ulimate server in [tinfoil](https://tinfoil.io). It will auto a
 ```
 Protocol: https
 Host: raw.githubusercontent.com
-Path: carcaschoi/tinfoil-json/master/tinfoilshop.json
-Titles: carcaschoi
+Path: thekarls/tinfoil-json/master/tinfoilshop.json
+Titles: Karl's Shop
 ```
 Video: https://youtu.be/Q3yk6vzCA1E
 
