@@ -1,10 +1,3 @@
-### Ultimate server by carcaschoi
-一 One of the parts of [ShallowSea AIO Package](https://github.com/carcaschoi/ShallowSea) Project
-### Introduction & Features
-** just to clarify, IT IS NOT A TINFOIL SHOP WHICH CONTAINS GAMES COPY. 
-* Ultimate server redirects to other alternative shops automatically, so you don't need to add shop manually if the shop links are updated.
-* User friendly？？
-
 # How to use
 Firstly, you must jailbreak your own nintendo switch with Custom firmware. The CFW I recommended is Atmosphere-NX with sigpatches
 
@@ -18,7 +11,7 @@ Host: raw.githubusercontent.com
 Path: thekarls/tinfoil-json/master/tinfoilshop.json
 Titles: Karl's Shop
 ```
-Video: https://youtu.be/Q3yk6vzCA1E
+
 
 NOTES: You have to be patient after adding ultimate server. It will take around 3-5 minutes to load the server.
 
