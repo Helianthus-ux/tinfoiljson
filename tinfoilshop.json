@@ -1,6 +1,7 @@
 {
     "locations": ["https://nx.ghostland.at", "https://tinfoil.ultranx.ru/tinfoil", "https://games.jits.site/shop"],
-    "locations": ["https://nx.ghostland.at", "https://tinfoil.ultranx.ru/tinfoil", "https://games.jits.site/shop","https://opennx.github.io/tinfoil.json"，"https://free.worldigital-brasil.com"],
+    "locations": ["https://nx.ghostland.at", "https://tinfoil.ultranx.ru/tinfoil", "https://games.jits.site/shop","https://opennx.github.io/tinfoil.json","https://free.worldigital-brasil.com"],
     "success": "Helianthus商店备份"
 }
+
 
